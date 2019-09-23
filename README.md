@@ -40,6 +40,8 @@ Audubon Field Guide page for that bird. Birds for which there is an active
 conservation effort will have a Conservation Status (not all birds will have
 this though).
 
+### Bonus
+
 **Create Page:** Users should be able to navigate to this page from the
 homepage. It should have a form for adding a new bird with fields for:
 
@@ -48,6 +50,8 @@ homepage. It should have a form for adding a new bird with fields for:
 - `conservationStatus`: If there is a conservation status for the bird
 - `image`: an image of the bird
 - `homepage`: a link to the Audubon Field Guide page.
+
+## Mocks
 
 Build your app to the following mocks:
 
